@@ -1,0 +1,5 @@
+/home/mei/Shared/Kunal/Work/General/ClipboardSync/ClipboardSync/ClipboardSync/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/mei/Shared/Kunal/Work/General/ClipboardSync/ClipboardSync/ClipboardSync/bin/Debug/ClipboardSync.exe.mdb
+/home/mei/Shared/Kunal/Work/General/ClipboardSync/ClipboardSync/ClipboardSync/bin/Debug/ClipboardSync.exe
+/home/mei/Shared/Kunal/Work/General/ClipboardSync/ClipboardSync/ClipboardSync/obj/x86/Debug/ClipboardSync.exe
+/home/mei/Shared/Kunal/Work/General/ClipboardSync/ClipboardSync/ClipboardSync/obj/x86/Debug/ClipboardSync.exe.mdb
